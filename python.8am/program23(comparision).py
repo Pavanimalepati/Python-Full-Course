@@ -1,0 +1,10 @@
+i=1000
+print(i)
+j=2000
+print(j)
+print(i>j)
+print(i>=j)
+print(i<j)
+print(i<=j)
+print(i==j)
+print(i!=j)

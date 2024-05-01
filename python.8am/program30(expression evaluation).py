@@ -1,0 +1,12 @@
+a=10
+print(a)
+b=20
+print(b)
+c=30
+print(c)
+p=a+b+c
+print(p)
+q=a+b*c
+print(q)
+r=(a+b)*c
+print(r)

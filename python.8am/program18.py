@@ -1,0 +1,16 @@
+a=1000
+print(a)
+b=2000
+print(b)
+c="1234"
+print(c)
+p="pavani"
+print(p)
+q="python"
+print(q)
+print(a+b)
+print(p+q)
+print(p+c)
+print(a+int(c))
+print(str(a)+c)
+print(str(b)+q)
